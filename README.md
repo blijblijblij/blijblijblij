@@ -1,16 +1,15 @@
 ### blijblijblij :rocket:
 
-<!--
-**blijblijblij/blijblijblij** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Ruby and Rails Developer leveraging Clouds, Automation with CI and CD to deliver Solid and Robust Solutions. 
 
-Here are some ideas to get you started:
+Moves easily up and down the stack from OS to View though I tend to focus on what is happening just below the Frontend surface, I love Data, Api's and Integrations.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Long time Linux and Opensource Software addict. 
+
+Specialties In General:
+• Ruby
+• Ruby On Rails
+• Data Integration
+• API's 
+• DevOps
+• :wq
