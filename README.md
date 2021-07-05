@@ -6,11 +6,6 @@ Moves easily up and down the stack from OS to View though I tend to focus on wha
 
 Long time Linux and Opensource Software addict. 
 
-Specialties In an overview:
+In an overview:
 
-• Ruby
-• Ruby On Rails
-• Data Integration
-• API's 
-• DevOps
-• :wq
+| Ruby | Ruby On Rails | Data Integration | API's | DevOps | :wq |
